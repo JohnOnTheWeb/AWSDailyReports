@@ -1,3 +1,3 @@
 ## developer experience and SDLC transformation
 
-*Research failed for this topic. Error: An error occurred (406) when calling the InvokeAgentRuntime operation: . Will retry next run.*
+*Research failed for this topic. Error: An error occurred (RuntimeClientError) when calling the InvokeAgentRuntime operation: Runtime initialization time exceeded. Please make sure that initialization completes in 30s.. Will retry next run.*
