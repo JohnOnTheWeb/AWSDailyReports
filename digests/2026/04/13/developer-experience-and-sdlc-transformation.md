@@ -1,3 +1,1 @@
-## developer experience and SDLC transformation
-
-*Research failed for this topic. Error: 'body'. Will retry next run.*
+{"topic": "developer experience and SDLC transformation", "status": "error", "error": "'MCPClient' object has no attribute 'list_tools'"}

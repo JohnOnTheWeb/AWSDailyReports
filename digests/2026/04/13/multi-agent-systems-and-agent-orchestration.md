@@ -1,3 +1,1 @@
-## multi-agent systems and agent orchestration
-
-*Research failed for this topic. Error: 'body'. Will retry next run.*
+{"topic": "multi-agent systems and agent orchestration", "status": "error", "error": "'MCPClient' object has no attribute 'list_tools'"}

@@ -1,3 +1,1 @@
-## cloud networking and AI workload architecture
-
-*Research failed for this topic. Error: 'body'. Will retry next run.*
+{"topic": "cloud networking and AI workload architecture", "status": "error", "error": "'MCPClient' object has no attribute 'list_tools'"}
