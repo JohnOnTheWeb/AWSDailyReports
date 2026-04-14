@@ -1,3 +1,3 @@
 ## cloud networking and AI workload architecture
 
-*Research failed for this topic. Error: An error occurred (AccessDeniedException) when calling the InvokeAgentRuntime operation: User: arn:aws:sts::590183796434:assumed-role/DailyResearchStack-InvokeAgentFnServiceRole16A0EB8C-9UdyFrLGqu5W/DailyResearchStack-InvokeAgentFn0CC7959C-07zN20rDppwr is not authorized to perform: bedrock-agentcore:InvokeAgentRuntime on resource: arn:aws:bedrock-agentcore:us-east-1:590183796434:runtime/DailyResearchAgentV6-CU0buE5kyS/runtime-endpoint/defaultEndpoint because no identity-based policy allows the bedrock-agentcore:InvokeAgentRuntime action. Will retry next run.*
+*Research failed for this topic. Error: An error occurred (ResourceNotFoundException) when calling the InvokeAgentRuntime operation: No endpoint or agent found with qualifier 'defaultEndpoint' for agent 'arn:aws:bedrock-agentcore:us-east-1:590183796434:runtime/DailyResearchAgentV6-CU0buE5kyS'. Will retry next run.*
