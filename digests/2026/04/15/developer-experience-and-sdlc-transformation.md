@@ -1,0 +1,1 @@
+{"topic": "developer experience and SDLC transformation", "status": "error", "error": "An error occurred (ValidationException) when calling the ConverseStream operation: The number of toolResult blocks at messages.22.content exceeds the number of toolUse blocks of previous turn."}
