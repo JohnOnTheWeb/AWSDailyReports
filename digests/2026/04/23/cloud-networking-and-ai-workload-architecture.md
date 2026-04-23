@@ -1,0 +1,1 @@
+{"topic": "cloud networking and AI workload architecture", "status": "error", "error": "An error occurred (ValidationException) when calling the ConverseStream operation: The number of toolResult blocks at messages.33.content exceeds the number of toolUse blocks of previous turn."}
