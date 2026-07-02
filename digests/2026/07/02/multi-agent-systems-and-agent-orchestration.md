@@ -1,0 +1,1 @@
+{"topic": "multi-agent systems and agent orchestration", "status": "error", "error": "An error occurred (ValidationException) when calling the ConverseStream operation: The number of toolResult blocks at messages.21.content exceeds the number of toolUse blocks of previous turn."}
