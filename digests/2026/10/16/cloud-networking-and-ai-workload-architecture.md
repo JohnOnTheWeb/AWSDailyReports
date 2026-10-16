@@ -1,0 +1,1 @@
+{"topic": "cloud networking and AI workload architecture", "status": "error", "error": "An error occurred (ResourceNotFoundException) when calling the ConverseStream operation: This model version has reached the end of its life. Please refer to the AWS documentation for more details."}
